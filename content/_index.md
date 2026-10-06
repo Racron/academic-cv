@@ -22,8 +22,10 @@ sections:
       name:
         size: "md"
       avatar:
-        size: "medium"
+        size: "small"
         shape: "circle"
+      banner:
+        filename: "me.jp"
     ce: "section-e4af69e3"
     As: "section-3aed9b30"
   - block: "markdown"
@@ -38,16 +40,4 @@ sections:
       columns: "1"
     ce: "section-f1ed3124"
     As: "section-1062e9be"
-  - block: "collection"
-    content:
-      title: "Recent Publications"
-      text: ""
-      filters:
-        folders:
-          - "publications"
-        exclude_featured: false
-    design:
-      view: "citation"
-    ce: "section-e8ee45c1"
-    As: "section-2a76f21d"
 ---

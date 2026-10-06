@@ -9,7 +9,7 @@ hugoblox:
     mode: system
     pack: dracula
     colors:
-      primary: "#051c2f"
+      primary: "#0b1826"
       secondary: ""
       neutral: "slate"
     colors_dark:
