@@ -32,9 +32,9 @@ sections:
       title: "📚 Research Interests"
       subtitle: ""
       text: |-
-        My research interests broadly involve conserving tropical terrestrial vertebrates in human-modified landscapes. Some of my past work includes distance sampling of the critically endangered straw-headed bulbul (Chiok et al. 2020) and contributions to N-mixture modelling and spatial mapping assessing rewilding in Singapore (Lamperty et al. 2023). I have also pursued conservation social science, determining conservation attitudes of songbird keepers in Singapore (Chiok et al. 2022). These experiences, along with my consultancy work, have motivated me to produce research at the science-policy interface and support real-world conservation outcomes.
-
-        I've grown increasingly interested in exploring land-use change and spatial conservation prioritisation through integrating ecological data and modeling (e.g. prioritizr). For instance, how can restoration or mitigation maximize biodiversity benefits without compromising socioeconomic impacts? And how can we further optimise land-use spatial planning and landscape conservation whilst balancing infrastructural development needs (e.g. Tantipisanuh et al. 2024)? Additionally, I am also interested in exploring sustainable wildlife trade, having collaborated with TRAFFIC SEA (Chiok & Chng 2021).
+        My research interests lie broadly in conserving tropical Southeast Asian terrestrial vertebrates: their ecology, habitat use, population and distribution in human-modified landscapes. My Honours thesis focused on the critically endangered straw-headed bulbul, but I am particularly interested in mammals and how anthropogenic factors such as habitat loss, fragmentation and urban development can affect them. 
+        
+        I'm keen to employ ecological modelling and spatio-temporal analyses to identify where forests or landscapes should be restored or created - and ultimately to couple those outputs with biodiversity finance metrics for nature positive outcomes. 
     design:
       columns: "1"
     ce: "section-f1ed3124"

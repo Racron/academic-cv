@@ -15,12 +15,12 @@ sections:
       username: chiokwenxuan
     design:
       # Hugo date format
-      date_format: 'January 2006'
+      date_format: '2020-10'
       # Education or Experience section first?
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: chiokwenxuan
   - block: resume-awards
     content:

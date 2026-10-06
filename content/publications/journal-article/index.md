@@ -1,5 +1,7 @@
 ---
 title: "An example journal article"
+build:
+  list: never
 authors:
 - me
 - Robert Ford
