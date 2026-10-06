@@ -1,13 +1,13 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: Wen Xuan CHIOK (Shane)
+    name: W. X. Chiok
     type: person
     tagline: Biodiversity Conservation | NUS
     description: Wen Xuan (Shane) is a National Geographic Explorer and Ecologist with over 7 years of experience in field ecology, wildlife trade, and environmental consulting.
   theme:
-    mode: dark
-    pack: marine
+    mode: system
+    pack: dracula
     colors:
       primary: ""
       secondary: ""
