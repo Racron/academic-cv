@@ -8,11 +8,11 @@ main:
     identifier: 1d0a79aa
     url: /
     weight: 10
-  - name: Publications
-    identifier: publications
-    url: /publications
-    weight: 20
   - name: Experience
     identifier: experience
     url: /experience
+    weight: 20
+  - name: Publications
+    identifier: publications
+    url: /publications
     weight: 30
