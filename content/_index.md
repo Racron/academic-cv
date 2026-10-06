@@ -24,8 +24,7 @@ sections:
       avatar:
         size: "small"
         shape: "circle"
-      banner:
-        filename: "me.jpg"
+      banner: {}
     ce: "section-e4af69e3"
     As: "section-3aed9b30"
   - block: "markdown"
