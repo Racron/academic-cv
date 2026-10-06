@@ -6,11 +6,11 @@ type: "landing"
 sections:
   - block: "resume-biography-3"
     content:
-      username: "me"
+      username: "chiokwenxuan"
       text: ""
       button:
         text: "Download CV"
-        url: "uploads/resume.pdf"
+        url: "uploads/CWX_CV_202610.pdf"
       headings:
         about: ""
         education: ""
