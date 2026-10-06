@@ -103,13 +103,13 @@ languages:
     level: 5
     label: "Native"
   - name: "Chinese Mandarin"
-    level: null
+    level: 5
     label: "Native"
   - name: "Bahasa Melayu"
-    level: null
+    level: 1
     label: "Basic"
   - name: "Bahasa Indonesia"
-    level: null
+    level: 1
     label: "Basic"
 awards:
   - title: "National Geographic Explorer"

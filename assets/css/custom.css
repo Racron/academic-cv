@@ -1,0 +1,26 @@
+.skills-wrapper {
+  width: 90px;
+  height: 12px;
+  overflow: hidden;
+  border: 0 !important;
+  border-radius: 0;
+  background-image: radial-gradient(
+    circle at center,
+    var(--color-primary-200, #cbd5f5) 0 4px,
+    transparent 4.5px
+  );
+  background-size: 18px 12px;
+  background-repeat: repeat-x;
+}
+
+.skills-percent {
+  height: 12px;
+  background-color: transparent !important;
+  background-image: radial-gradient(
+    circle at center,
+    var(--color-primary-600, #2563eb) 0 4px,
+    transparent 4.5px
+  );
+  background-size: 18px 12px;
+  background-repeat: repeat-x;
+}
