@@ -12,7 +12,7 @@ sections:
         text: "Download CV"
         url: "uploads/CWX_CV_202610.pdf"
       headings:
-        about: ""
+        about: "About"
         education: ""
         interests: ""
     design:
