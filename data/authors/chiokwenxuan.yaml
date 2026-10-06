@@ -58,7 +58,7 @@ experience:
       - Loke Cheng-Kim Foundation Postgraduate Scholar"
   - role: "Environmental Consultant"
     org: "Aurecon"
-    start: "2024-9"
+    start: "2024-09"
     end: "2026-08"
     summary: ""
   - role: "Environmental Consultant"
@@ -97,7 +97,7 @@ skills:
       - label: "Conference Presentations"
         level: 4
       - label: "Grant Proposals"
-        level: 4
+        level: 3
 languages:
   - name: "English"
     level: 5
