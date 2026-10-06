@@ -44,7 +44,7 @@ sections:
     content:
       username: "chiokwenxuan"
     ce: "section-2-resume-experience"
-    id: "experience"
+    id: "eperience"
     As: "section-bcd6e04d"
   - block: "resume-awards"
     content:
