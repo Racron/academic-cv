@@ -103,13 +103,13 @@ languages:
     level: 5
     label: "Native"
   - name: "Chinese Mandarin"
-    level: 5
+    level: null
     label: "Native"
   - name: "Bahasa Melayu"
-    level: 1
+    level: null
     label: "Basic"
   - name: "Bahasa Indonesia"
-    level: 1
+    level: null
     label: "Basic"
 awards:
   - title: "National Geographic Explorer"
@@ -132,5 +132,3 @@ ids:
   google_scholar: "WdZPsQ8AAAAJ&hl"
   scopus: "57219966325"
   research_gate: "Wen-Chiok"
-status:
-  icon: "🔬"
