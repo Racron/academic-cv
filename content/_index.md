@@ -40,4 +40,22 @@ sections:
       columns: "1"
     ce: "section-f1ed3124"
     As: "section-1062e9be"
+  - block: "resume-experience"
+    content:
+      username: "chiokwenxuan"
+    ce: "section-2-resume-experience"
+    id: "experience"
+    As: "section-bcd6e04d"
+  - block: "resume-awards"
+    content:
+      username: "chiokwenxuan"
+    ce: "section-3-resume-awards"
+    id: "experience"
+    As: "section-c03cfba2"
+  - block: "resume-languages"
+    content:
+      username: "chiokwenxuan"
+    ce: "section-4-resume-languages"
+    id: "experience"
+    As: "section-75d6b909"
 ---
