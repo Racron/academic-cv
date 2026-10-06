@@ -49,7 +49,7 @@ education:
 experience:
   - role: "MSc Student-Researcher"
     org: "NUS"
-    start: "2026-08-01"
+    start: "2026-08"
     end: ""
     summary: "MSc in Biodiversity Conservation & Sustainability in NUS
 
@@ -58,8 +58,8 @@ experience:
       - Loke Cheng-Kim Foundation Postgraduate Scholar"
   - role: "Environmental Consultant"
     org: "Aurecon"
-    start: "2024-9-01"
-    end: "2026-08-01"
+    start: "2024-9"
+    end: "2026-08"
     summary: ""
   - role: "Environmental Consultant"
     org: "DHI Singapore"
@@ -93,7 +93,7 @@ skills:
   - name: "Research & Communication"
     items:
       - label: "Academic Writing"
-        level: 5
+        level: 4
       - label: "Conference Presentations"
         level: 4
       - label: "Grant Proposals"
@@ -103,16 +103,21 @@ languages:
     level: 5
     label: "Native"
   - name: "Chinese Mandarin"
-    level: null
+    level: 4
     label: "Native"
   - name: "Bahasa Melayu"
-    level: null
+    level: 1
     label: "Basic"
   - name: "Bahasa Indonesia"
-    level: null
+    level: 1
     label: "Basic"
 awards:
-  - title: "National Geographic Explorer"
+  - title: "Loke Cheng-Kim Foundation Postgraduate Scholarship"
+    awarder: "Loke Cheng-Kim Foundation"
+    date: "2026"
+    summary: ""
+    icon: ""
+  - title: "National Geographic Explorer 2020"
     awarder: "National Geographic Society"
     date: "2020"
     summary: ""
@@ -120,11 +125,6 @@ awards:
   - title: "Mandai Nature Conservation Research Grant"
     awarder: "Mandai Nature"
     date: "2018"
-    summary: ""
-    icon: ""
-  - title: "Loke Cheng-Kim Foundation Postgraduate Scholarship"
-    awarder: "Loke Cheng-Kim Foundation"
-    date: "2026"
     summary: ""
     icon: ""
 ids:

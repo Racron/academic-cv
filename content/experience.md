@@ -15,7 +15,7 @@ sections:
       username: chiokwenxuan
     design:
       # Hugo date format
-      date_format: '2020-10'
+      date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
   - block: resume-skills
