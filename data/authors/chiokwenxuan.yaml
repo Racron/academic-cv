@@ -13,8 +13,12 @@ postnominals:
 role: "MSc Researcher"
 bio: "Wen Xuan (Shane) is a National Geographic Explorer and conservation biologist with over seven years of experience in field ecology, wildlife trade research, and environmental consulting across Southeast Asia."
 affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  - name: "National Geographic Society"
+    url: "https://explorers.nationalgeographic.org/directory/wen-xuan-shane-chiok"
+  - name: "Herpetological Society of Singapore"
+    url: "https://herpsocsg.com/"
+  - name: "IUCN SSC Asian Songbird Trade Specialist Group"
+    url: "https://www.asiansongbirdtradesg.com/"
 links:
   - icon: "academicons/researchgate"
     url: "https://www.researchgate.net/profile/Wen-Chiok"
@@ -42,14 +46,49 @@ education:
     end: "2019"
     summary: ""
 experience:
-  - role: "MSc Student"
+  - role: "MSc Student-Researcher"
     org: "NUS"
-    start: "2026"
-    end: "2027"
+    start: "2026-08-01"
+    end: ""
+    summary: "MSc in Biodiversity Conservation & Sustainability in NUS
+
+      - Research Thesis under Prof. Ryan Chisholm
+
+      - Loke Cheng-Kim Foundation Postgraduate Scholar"
+  - role: "Environmental Consultant"
+    org: "Aurecon"
+    start: "2024-9-01"
+    end: "2026-08-01"
+    summary: ""
+  - role: "Environmental Consultant"
+    org: "DHI Singapore"
+    start: "2023-03"
+    end: "2024-08"
+    summary: ""
+  - role: "Research Scientist"
+    org: "National Parks Board"
+    start: "2022-06"
+    end: "2023-02"
+    summary: ""
+  - role: "Project Manager - Research Assistant"
+    org: "Asian School of the Environment - NTU"
+    start: "2020-04"
+    end: "2022-04"
+    summary: ""
+  - role: "Research Assistant"
+    org: "Department of Biological Sciences - NUS"
+    start: "2019-10"
+    end: "2020-03"
     summary: ""
 skills:
   - name: "Technical Skills"
-    items: []
+    items:
+      - label: "ArcGIS"
+        level: 3
+      - label: "R"
+        level: 4
+      - label: "Ecological Modelling"
+        level: 3
   - name: "Research & Communication"
     items:
       - label: "Academic Writing"
@@ -62,7 +101,31 @@ languages:
   - name: "English"
     level: 5
     label: "Native"
-awards: []
+  - name: "Chinese Mandarin"
+    level: null
+    label: "Native"
+  - name: "Bahasa Melayu"
+    level: null
+    label: "Basic"
+  - name: "Bahasa Indonesia"
+    level: null
+    label: "Basic"
+awards:
+  - title: "National Geographic Explorer"
+    awarder: "National Geographic Society"
+    date: "2020"
+    summary: ""
+    icon: ""
+  - title: "Mandai Nature Conservation Research Grant"
+    awarder: "Mandai Nature"
+    date: "2018"
+    summary: ""
+    icon: ""
+  - title: "Loke Cheng-Kim Foundation Postgraduate Scholarship"
+    awarder: "Loke Cheng-Kim Foundation"
+    date: "2026"
+    summary: ""
+    icon: ""
 ids:
   orcid: "0000-0003-1057-0552"
   google_scholar: "WdZPsQ8AAAAJ&hl"
