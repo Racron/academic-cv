@@ -10,10 +10,10 @@ hugoblox:
     pack: dracula
     colors:
       primary: "#0b1826"
-      secondary: ""
+      secondary: "#1c2430"
       neutral: "slate"
     colors_dark:
-      primary: "#051c2f"
+      primary: ""
   typography:
     font: sans
     size: md
